@@ -20,10 +20,6 @@ const Footer = () => {
               <FaPhone size={20} style={{ color: "green", marginRight: "1rem" }} /> 
               +92-346-9900986
             </h4>
-            <h4>
-              <FaPhone size={20} style={{ color: "green", marginRight: "1rem" }} /> 
-              +92-327-7400419
-            </h4>
           </div>
           <div className="email">
             <h4>
@@ -35,25 +31,25 @@ const Footer = () => {
 
         <div className="right">
           <h4>About me</h4>
-          <p>This is Abuzar Khan, Software Engineering Student and Web developer for more...   <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/">(Click Me!)</a>.</p>
+          <p>This is Abuzar Khan, Software Engineering Student and MERN-Stack Developer for more...   <a href="https://www.linkedin.com/in/abuzarkhan-pakistan/">(Click Me!)</a>.</p>
           <div className="our-social"><p>See Our Social's:</p></div>
           <div className="social">
             <a href="https://www.facebook.com/AbuzarKhan9900?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
               <FaFacebook size={30} style={{ color: "#1877F2", marginRight: "0.5rem" }} />
             </a>
-            <a href="https://twitter.c`om/JohnLewis9900" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.c`om/abuzarkhanse" target="_blank" rel="noopener noreferrer">
               <FaTwitter size={30} style={{ color: "#1DA1F2", marginRight: "0.5rem" }} />
             </a>
             <a href="https://www.instagram.com/abuzarkhanse/?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" rel="noopener noreferrer">
               <FaInstagram size={30} style={{ color: "#E4405F", marginRight: "0.5rem" }} />
             </a>
-            <a href="https://youtube.com/@Abuzar_Khan370?si=HCQygnejNCDaARLD" target="_blank" rel="noopener noreferrer">
+            <a href="https://youtube.com/@abuzarkhanse" target="_blank" rel="noopener noreferrer">
               <FaYoutube size={30} style={{ color: "#``FF0000", marginRight: "0.5rem" }} />
             </a>
             <a href="https://www.linkedin.com/in/abuzar-khan-pakistan" target="_blank" rel="noopener noreferrer">
               <FaLinkedin size={30} style={{ color: "#0077B5", marginRight: "0.5rem" }} />
             </a>
-            <a href="https://github.com/AbuzarKhan0099" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/abuzarkhanse" target="_blank" rel="noopener noreferrer">
               <FaGithub size={30} style={{ color: "#333", marginRight: "0.5rem" }} />
             </a>
           </div>
@@ -61,7 +57,7 @@ const Footer = () => {
       </div>
       {/* Copyright Notice */}
       <div className="copyright">
-        <p>2024 All rights reserved. Designed & Developed by Abuzar Khan</p>
+        <p>&copy; 2025 All rights reserved. Designed & Developed by Abuzar Khan</p>
       </div>
     </div>
   )

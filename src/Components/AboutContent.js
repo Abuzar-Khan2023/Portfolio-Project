@@ -17,7 +17,7 @@ const AboutContent = () => {
     My academic journey commenced with a strong foundation in programming, starting with a deep dive into the intricacies of C++ during my first semester. In my second semester, I further expanded my knowledge by mastering the principles of Object-Oriented Programming (OOP). In my third semester, I successfully completed Data Structures and Algorithms (DSA) in C++, further enhancing my programming proficiency.
   </p>
   <p>
-    My interest in web development led me to explore a variety of tools and languages, such as HTML, CSS, JavaScript, and React.js. I have successfully applied these skills in multiple web development projects during my internships.
+    My interest in web development led me to explore a variety of tools and languages, such as HTML, CSS, JavaScript, and React.js, Node.js, PHP, MySQL, Git and Github. I have successfully applied these skills in multiple web development projects during my internships.
   </p>
   <p>
     I kick-started my professional journey with an internship at Sabzland, followed by a remote web development internship at Oasis Infobyte. These experiences allowed me to develop hands-on skills in creating user-friendly, responsive websites. I further honed my skills during my recent internship at Entechin, where I contributed to both web and software development projects using HTML, CSS, JavaScript, and C++.

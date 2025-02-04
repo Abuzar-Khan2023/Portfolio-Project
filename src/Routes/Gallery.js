@@ -1,16 +1,16 @@
-import React from 'react';
-import Navbar from '../Components/Navbar';
-import Footer from '../Components/Footer';
-import FramedPicture from '../Components/FramedPicture';
+// import React from 'react';
+// import Navbar from '../Components/Navbar';
+// import Footer from '../Components/Footer';
+// import FramedPicture from '../Components/FramedPicture';
 
-const Gallery = () => {
-  return (
-    <div>
-      <Navbar/>
-      <FramedPicture/>
-      <Footer/>
-    </div>
-  );
-};
+// const Gallery = () => {
+//   return (
+//     <div>
+//       <Navbar/>
+//       <FramedPicture/>
+//       <Footer/>
+//     </div>
+//   );
+// };
 
-export default Gallery;
+// export default Gallery;
